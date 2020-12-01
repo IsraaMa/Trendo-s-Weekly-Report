@@ -1,0 +1,8 @@
+Pillow
+dataframe-image
+fpdf
+matplotlib
+numpy
+pandas
+plotly
+requests
